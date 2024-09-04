@@ -1,4 +1,4 @@
-# Hello, I'm Gio Kravche 👋
+# Hello, I'm Giorgi Kravchenko 👋
 
 ## 🚀 About Me
 I'm a beginner enthusiastic Full Stack Developer with a passion for web development. Currently, I'm expanding my skills and knowledge in various technologies to build robust and efficient web applications.
