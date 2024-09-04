@@ -22,8 +22,9 @@ I'm a beginner enthusiastic Full Stack Developer with a passion for web developm
 - Currently seeking opportunities to apply and expand my skills
 
 ## 🎓 Education
-- Studying at BTU "Business and Technology University"
 - Completed TBC IT Academy course
+- Studying at BTU "Business and Technology University"
+- Studying at It Step Academy (Full Stack Development)
 
 ## 📊 GitHub Stats
 ![Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonKravche&show_icons=true&theme=radical)
@@ -32,9 +33,8 @@ I'm a beginner enthusiastic Full Stack Developer with a passion for web developm
 ![](https://github-profile-trophy.vercel.app/?username=DonKravche&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
-- Twitter: [@YourTwitterHandle]
+- LinkedIn: www.linkedin.com/in/giokravche
+- Email: DonGioKravche@gmail.com
 
 ## 👨‍💻 Projects
 I have worked on various projects to enhance my skills:
